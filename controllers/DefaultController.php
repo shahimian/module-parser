@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components\modules\eexpression\controllers;
+namespace shahimian\parser\controllers;
 
 use yii\web\Controller;
 

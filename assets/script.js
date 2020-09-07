@@ -101,6 +101,3 @@ function batchParse(exps){
     }
     return arrResult;
 }
-
-var exps = 'x=5;\n\ry=1   ;  z  =  5 + x + y;';
-console.log(batchParse(exps));

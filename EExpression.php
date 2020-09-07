@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components\modules\eexpression;
+namespace shahimian\parser;
 
 /**
  * eexpression module definition class
@@ -10,7 +10,7 @@ class EExpression extends \yii\base\Module
     /**
      * @inheritdoc
      */
-    public $controllerNamespace = 'app\components\modules\eexpression\controllers';
+    public $controllerNamespace = 'shahimian\parser\controllers';
 
     /**
      * @inheritdoc

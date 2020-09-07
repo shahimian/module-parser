@@ -1,4 +1,4 @@
 <?php
-use app\components\modules\eexpression\Asset;
+use shahimian\parser\Asset;
 
 Asset::register($this);
